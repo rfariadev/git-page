@@ -31,7 +31,7 @@ body {
       0 -0.6000000000000001px,
     linear-gradient(
         90deg,
-        #93939321 1.2000000000000002px,
+        #93939310 1.2000000000000002px,
         #ffffff28 1.2000000000000002px
       ) -0.6000000000000001px 0;
   background-size: 30px 30px, 30px 30px, 15px 15px, 15px 15px;
@@ -41,7 +41,7 @@ body {
 h1.title {
   background-color: black;
   color: white;
-  width: 320px;
+  width: 401px;
 }
 footer {
 }
