@@ -35,13 +35,13 @@ body {
         #ffffff28 1.2000000000000002px
       ) -0.6000000000000001px 0;
   background-size: 30px 30px, 30px 30px, 15px 15px, 15px 15px;
-  font-family: "Courier New", Courier, monospace !important;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h1.title {
   background-color: black;
   color: white;
-  width: 401px;
+  width: 321px;
 }
 footer {
 }
